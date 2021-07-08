@@ -46,3 +46,10 @@ mensaje1 = 'Hola'
 mensaje2 = 'Hola'
 
 print(mensaje1 == mensaje2)
+
+# MEDIR STRING
+print(MEDIR STRING:)
+mensaje = 'Hello World'
+longitud = len(mensaje)
+
+print('La cadena {} tiene una longitud de {}'.format(mensaje, longitud))
