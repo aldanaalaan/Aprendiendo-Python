@@ -48,7 +48,7 @@ mensaje2 = 'Hola'
 print(mensaje1 == mensaje2)
 
 # MEDIR STRING
-print(MEDIR STRING:)
+print('MEDIR STRING:')
 mensaje = 'Hello World'
 longitud = len(mensaje)
 
