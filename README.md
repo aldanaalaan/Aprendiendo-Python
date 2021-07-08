@@ -17,6 +17,8 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 **007** - Sentencias Condicionales.
 
+**008** - Sistema vacacional Rappi.
+
 ## Carpeta Test
 
 **- InvertirCadenas.py**
