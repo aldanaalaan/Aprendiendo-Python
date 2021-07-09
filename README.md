@@ -21,6 +21,8 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 **009** - Determinar si un numero es par o impar.
 
+**010** - Ciclo while
+
 ## Carpeta Test
 
 **- InvertirCadenas.py**
