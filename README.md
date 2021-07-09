@@ -25,7 +25,7 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 ## Carpeta Test
 
-**EcuacionesCuadraticas.py**
+**- EcuacionesCuadraticas.py**
 Programa capaz de resolver ecuaciones de segundo grado utilizando la formula general para ecuaciones cuadraticas.
 
 **- InvertirCadenas.py**
