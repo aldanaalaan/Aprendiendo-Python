@@ -18,4 +18,4 @@ while i <= longitud:
 	longitud -= 1
 
 # Imprimir cadena invertida
-print('La cadena invertida es: ', cadInv)
+print('La cadena "{}" invertida es "{}"'.format(cad, cadInv))
