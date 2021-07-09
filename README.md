@@ -21,9 +21,12 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 **009** - Determinar si un numero es par o impar.
 
-**010** - Ciclo while
+**010** - Ciclo while.
 
 ## Carpeta Test
+
+**EcuacionesCuadraticas.py**
+Programa capaz de resolver ecuaciones de segundo grado utilizando la formula general para ecuaciones cuadraticas.
 
 **- InvertirCadenas.py**
 Un programa que invierte un String y lo imprime.
