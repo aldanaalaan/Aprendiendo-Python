@@ -19,7 +19,7 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 **008** - Sistema vacacional Rappi.
 
-**009** - Determinar si un numero es par o impar
+**009** - Determinar si un numero es par o impar.
 
 ## Carpeta Test
 
