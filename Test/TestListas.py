@@ -4,7 +4,8 @@
 listaColores = ['Azul', 'Rojo', 'Morado', 'Gris', 'Celeste', 'Blanco y Negro', 'negro']
 
 # Variables
-a = input('Dime que cadena voy a buscar: '.lower())
+a = input('Dime que cadena voy a buscar: ')
+a = a.lower()
 i = 0
 listaPLista = []
 listaPCadena = []
