@@ -35,3 +35,6 @@ Un programa que invierte un String y lo imprime.
 
 **- StringAOperacion.py**
 Un programa que detecta el operador aritmetico de una operacion y realiza la suma, resta, multiplicación o división.
+
+**- TestListas.py**
+Programa que busca una subcadena dentro de las cadenas de una lista.
