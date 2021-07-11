@@ -12,8 +12,7 @@ encontrado = False
 
 # Ciclo encargado de buscar la subcadena
 for i in listaColores:
-    cadColor = i
-    cadColor = cadColor.lower()
+    cadColor = i.lower()
     if cadColor.find(a) >= 0:
         encontrado = True
         listaPLista.append(i)
