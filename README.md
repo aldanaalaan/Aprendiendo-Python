@@ -25,6 +25,8 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 **011** - Listas.
 
+**012** - Ciclo For.
+
 ## Carpeta Test
 
 **- EcuacionesCuadraticas.py**
