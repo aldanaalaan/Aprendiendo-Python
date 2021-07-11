@@ -6,20 +6,18 @@ listaColores = ['Azul', 'Rojo', 'Morado', 'Gris', 'Celeste', 'Blanco y Negro', '
 # Variables
 a = input('Dime que cadena voy a buscar: ')
 a = a.lower()
-i = 0
 listaPLista = []
 listaPCadena = []
 encontrado = False
 
 # Ciclo encargado de buscar la subcadena
-while i < len(listaColores):
-    cadColor = listaColores[i]
+for i in listaColores:
+    cadColor = i
     cadColor = cadColor.lower()
     if cadColor.find(a) >= 0:
         encontrado = True
         listaPLista.append(i)
         listaPCadena.append(cadColor.find(a))
-    i += 1
 
 # Reinicio del indice
 i = 0
