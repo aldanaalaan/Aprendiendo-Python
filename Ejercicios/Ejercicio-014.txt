@@ -1,0 +1,4 @@
+Este es un archivo
+para probar la
+interaccion entre Python
+y los ficheros .txt
