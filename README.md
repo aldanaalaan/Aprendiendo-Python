@@ -36,10 +36,11 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 ## Carpeta Test
 
 **ArchivoLista**
-    **- main.py**
+
+ **- main.py**
     Se encarga de leer un archivo de texto y a partir de el, tener una lista.
 
-    **- lista.txt**
+ **- lista.txt**
     Archivo de texto con la lista de main.
 
 **- EcuacionesCuadraticas.py**
