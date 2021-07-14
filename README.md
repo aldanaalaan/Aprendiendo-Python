@@ -35,7 +35,7 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 ## Carpeta Test
 
-**ArchivoLista**
+**- ArchivoLista**
 
  **1.- main.py**
     Se encarga de leer un archivo de texto y a partir de el, tener una lista.
