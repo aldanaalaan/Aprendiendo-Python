@@ -35,6 +35,13 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 ## Carpeta Test
 
+**ArchivoLista**
+    **- main.py**
+    Se encarga de leer un archivo de texto y a partir de el, tener una lista.
+
+    **- lista.txt**
+    Archivo de texto con la lista de main.
+
 **- EcuacionesCuadraticas.py**
 Programa capaz de resolver ecuaciones de segundo grado utilizando la formula general para ecuaciones cuadraticas.
 
