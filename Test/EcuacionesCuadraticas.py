@@ -21,10 +21,10 @@ if coc > -1:
 
 # Impresion de resultados
 if ind >= 1:
-	print('La ecuacion {}x²{}x{} tiene dos soluciones'.format(coa, cob, coc))
-	print('Las soluciones para x en la ecuacion {}x²{}x{} son {} y {}'.format(coa, cob, coc, x1, x2))
+	print(f'La ecuacion {coa}x²{cob}x{coc} tiene dos soluciones')
+	print(f'Las soluciones para x en la ecuacion {coa}x²{cob}x{coc} son {x1} y {x2}')
 elif ind == 0:
-	print('La ecuacion {}x²{}x{} tiene un soluciones'.format(coa, cob, coc))
-	print('La solucion para x en la ecuacion {}x²{}x{} es {}'.format(coa, cob, coc, x1))
+	print(f'La ecuacion {coa}x²{cob}x{coc} tiene un soluciones')
+	print(f'La solucion para x en la ecuacion {coa}x²{cob}x{coc} es {x1}')
 else:
-	print('La ecuacion {}x²{}x{} no tiene soluciones'.format(coa, cob, coc))
+	print(f'La ecuacion {coa}x²{cob}x{coc} no tiene soluciones')
