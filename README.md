@@ -33,6 +33,10 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 **015** - Continue y Brak.
 
+**016** - Diccionarios.
+
+**017** - Metodos de Diccionarios.
+
 ## Carpeta Test
 
 **- ArchivoLista**
