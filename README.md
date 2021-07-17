@@ -3,58 +3,43 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 ## Carpeta Ejercicios
 
-**001** - Primera impresion.
+1. Primera impresión.
+2. Manipulación de cadenas.
+3. Operadores Aritméticos.
+4. Comentarios.
 
-**002** - Manipulacion de cadenas.
+5. Entrada de datos por teclado.
 
-**003** - Operadores Aritmeticos.
+6. Entrada de datos 2.
 
-**004** - Comentarios.
+7. Sentencias Condicionales.
 
-**005** - Entrada de datos por teclado.
+8. Sistema vacacional Rappi.
 
-**006** - Entrada de datos 2.
+9. Determinar si un numero es par o impar.
 
-**007** - Sentencias Condicionales.
+10. Ciclo while.
 
-**008** - Sistema vacacional Rappi.
+11. Listas.
 
-**009** - Determinar si un numero es par o impar.
+12. Ciclo For.
 
-**010** - Ciclo while.
+13. Ciclo For 2.
 
-**011** - Listas.
+14. Manipulación de archivos .txt con Python.
 
-**012** - Ciclo For.
+15. Continue y Brak.
 
-**013** - Ciclo For 2.
+16. Diccionarios.
 
-**014** - Manipulacion de archivos .txt con Python.
-
-**015** - Continue y Brak.
-
-**016** - Diccionarios.
-
-**017** - Metodos de Diccionarios.
+17. Métodos de Diccionarios.
 
 ## Carpeta Test
 
-**- ArchivoLista**
-
- **1.- main.py**
-    Se encarga de leer un archivo de texto y a partir de el, tener una lista.
-
- **2.- lista.txt**
-    Archivo de texto con la lista de main.
-
-**- EcuacionesCuadraticas.py**
-Programa capaz de resolver ecuaciones de segundo grado utilizando la formula general para ecuaciones cuadraticas.
-
-**- InvertirCadenas.py**
-Un programa que invierte un String y lo imprime.
-
-**- StringAOperacion.py**
-Un programa que detecta el operador aritmetico de una operacion y realiza la suma, resta, multiplicación o división.
-
-**- TestListas.py**
-Programa que busca una subcadena dentro de las cadenas de una lista.
+- **ArchivoLista.-** Proyecto para guardar una lista en un archivo de texto para no tener que reiniciarla cada vez que se entra al programa.
+  1. **main.py** Se encarga de leer un archivo de texto y a partir de el, manipular una lista.
+  2. **lista.txt** Archivo de texto que contiene la lista de main.
+- **EcuacionesCuadraticas.py.-** Programa capaz de resolver ecuaciones de segundo grado utilizando la formula general para ecuaciones cuadráticas.
+- **InvertirCadenas.py.-** Un programa que invierte un String y lo imprime.
+- **StringAOperacion.py.-** Un programa que detecta el operador aritmético de una operación y realiza la suma, resta, multiplicación o división.
+- **TestListas.py.-** Programa que busca una encadenad dentro de las cadenas de una lista.
