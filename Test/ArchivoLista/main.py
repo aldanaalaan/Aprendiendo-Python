@@ -16,7 +16,7 @@ while True:
         print('Debes ingresar un numero entero')
         continue
     else:
-    
+
         if opc == 1:
             try:
                 elemento = int(input('Dime que elemento agregar: '))
@@ -63,8 +63,8 @@ while True:
             print('Adios usuario')
             break
 
-        else :
-    	    print('La opcion no está disponible.')
+        else:
+            print('La opcion no está disponible.')
     handled.close()
     handled = open('lista.txt', 'w')
 

@@ -1,7 +1,8 @@
 # Buscar una subcadena dentro de las cadenas de una lista
 
 # Lista de muestra para probar el algoritmo
-listaColores = ['Azul', 'Rojo', 'Morado', 'Gris', 'Celeste', 'Blanco y Negro', 'negro']
+listaColores = ['Azul', 'Rojo', 'Morado',
+                'Gris', 'Celeste', 'Blanco y Negro', 'negro']
 
 # Variables
 a = input('Dime que cadena voy a buscar: ')
@@ -23,7 +24,8 @@ i = 0
 
 # Ciclo encargado de imprimir los resultados
 while encontrado and i < len(listaPCadena):
-    print('La cadena buscada se encuentra en la posicion de lista {} y en la posicion de cadena {}'.format(listaPLista[i], listaPCadena[i]))
+    print('La cadena buscada se encuentra en la posicion de lista {} y en la posicion de cadena {}'.format(
+        listaPLista[i], listaPCadena[i]))
     i += 1
 
 if not encontrado:

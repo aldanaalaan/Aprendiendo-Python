@@ -1,10 +1,10 @@
 # Diccionarios
-edades = {'Cristina':17,'David':6,'Alan':17,'Fani':9}
+edades = {'Cristina': 17, 'David': 6, 'Alan': 17, 'Fani': 9}
 
 # Impresion del diccionario
 print(edades)
 
-#Impresion de un dato especifico
+# Impresion de un dato especifico
 print(edades['David'])
 
 edades['Fani'] = 10
@@ -13,4 +13,4 @@ edades['Fani'] = 10
 print(edades)
 
 for i in edades:
-    print(i,edades[i])
+    print(i, edades[i])

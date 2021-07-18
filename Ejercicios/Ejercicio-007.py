@@ -5,7 +5,8 @@
 print('IF:')
 
 nombre = input('Hola, ¿Como te llamas? ')
-cal1 = float(input('{}, ¿Cual es tu calificacion en matematicas? '.format(nombre)))
+cal1 = float(
+    input('{}, ¿Cual es tu calificacion en matematicas? '.format(nombre)))
 cal2 = float(input('{}, ¿Cual es tu calificacion en quimica? '.format(nombre)))
 cal3 = float(input('{}, ¿Cual es tu calificacion en biologia? '.format(nombre)))
 promedio = (cal1 + cal2 + cal3)/3
@@ -44,7 +45,7 @@ print('[2] String')
 print('[3] Flotante')
 print('')
 
-opcion=int(input())
+opcion = int(input())
 
 if opcion == 1:
     print(str(num1))
@@ -52,6 +53,6 @@ elif opcion == 2:
     print(cad1)
 elif opcion == 3:
     print(str(dec1))
-else :
+else:
     print('La opcion {} no esta disponible'.format(opcion))
 print('FIN')

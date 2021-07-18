@@ -31,36 +31,36 @@ an = int(input(nombre + ', ¿Cuantos años llevas en la compañia? '))
 # Condicional departamento
 if clave == 1:
 
-	if an == 1:
-		print(nombre + ', tienes derecho a 6 dias de vacaciones')
-	elif an >= 2 and an <= 6:
-		print(nombre + ', tienes derecho a 14 dias de vacaciones')
-	elif an >= 7:
-		print(nombre + ', tienes derecho a 20 dias de vacaciones')
-	else :
-		print(nombre + ', todavia no tienes derecho a vacaciones')
+    if an == 1:
+        print(nombre + ', tienes derecho a 6 dias de vacaciones')
+    elif an >= 2 and an <= 6:
+        print(nombre + ', tienes derecho a 14 dias de vacaciones')
+    elif an >= 7:
+        print(nombre + ', tienes derecho a 20 dias de vacaciones')
+    else:
+        print(nombre + ', todavia no tienes derecho a vacaciones')
 
 elif clave == 2:
 
-	if an == 1:
-		print(nombre + ', tienes derecho a 7 dias de vacaciones')
-	elif an >= 2 and an <= 6:
-		print(nombre + ', tienes derecho a 15 dias de vacaciones')
-	elif an >= 7:
-		print(nombre + ', tienes derecho a 22 dias de vacaciones')
-	else :
-		print(nombre + ', todavia no tienes derecho a vacaciones')
+    if an == 1:
+        print(nombre + ', tienes derecho a 7 dias de vacaciones')
+    elif an >= 2 and an <= 6:
+        print(nombre + ', tienes derecho a 15 dias de vacaciones')
+    elif an >= 7:
+        print(nombre + ', tienes derecho a 22 dias de vacaciones')
+    else:
+        print(nombre + ', todavia no tienes derecho a vacaciones')
 
 elif clave == 3:
 
-	if an == 1:
-		print(nombre + ', tienes derecho a 10 dias de vacaciones')
-	elif an >= 2 and an <= 6:
-		print(nombre + ', tienes derecho a 20 dias de vacaciones')
-	elif an >= 7:
-		print(nombre + ', tienes derecho a 30 dias de vacaciones')
-	else :
-		print(nombre + ', todavia no tienes derecho a vacaciones')
+    if an == 1:
+        print(nombre + ', tienes derecho a 10 dias de vacaciones')
+    elif an >= 2 and an <= 6:
+        print(nombre + ', tienes derecho a 20 dias de vacaciones')
+    elif an >= 7:
+        print(nombre + ', tienes derecho a 30 dias de vacaciones')
+    else:
+        print(nombre + ', todavia no tienes derecho a vacaciones')
 
-else :
-	print('La clave del departamento no es valida')
+else:
+    print('La clave del departamento no es valida')

@@ -7,7 +7,7 @@ i = 0
 cad1 = ''
 
 while i <= num1:
-	cad1 += str(i) + ', '
-	i += 5
+    cad1 += str(i) + ', '
+    i += 5
 
 print(cad1)

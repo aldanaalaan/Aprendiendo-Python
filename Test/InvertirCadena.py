@@ -14,8 +14,8 @@ cadInv = ""
 
 # Ciclo para invertir la cadena
 while i <= longitud:
-	cadInv += cad[longitud:(longitud+1)]
-	longitud -= 1
+    cadInv += cad[longitud:(longitud+1)]
+    longitud -= 1
 
 # Imprimir cadena invertida
 print('La cadena "{}" invertida es "{}"'.format(cad, cadInv))
