@@ -26,6 +26,11 @@ resultado = str(resultado)
 
 print('El resultado de la suma es: ' + resultado)
 
+# Multiplicacion
+mensaje = 'Hey! '
+
+print(mensaje * 3)
+
 # BUSQUEDA
 print('BUSQUEDA:')
 mensaje = 'Hola Alan'
