@@ -29,7 +29,7 @@ Repositorio donde estarán lo ejercicios que haga para aprender Python, así com
 
 14. Manipulación de archivos .txt con Python.
 
-15. Continue y Brak.
+15. Continue y Break.
 
 16. Diccionarios.
 
